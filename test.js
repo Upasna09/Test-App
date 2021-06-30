@@ -4,6 +4,7 @@ function test() {
     return (
         <div>
             <h1>hello</h1>
+            <h2>new</h2>
         </div>
     )
 }
